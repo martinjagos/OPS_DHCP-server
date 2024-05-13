@@ -7,7 +7,7 @@ Pro praktickou část budu potřebovat:
 Volitelné:
 - Počítač (pro připojení na zařízení přes SSH)
 
-## Úvod
+## Realizace
 ### 1. Připojení
 Pokud využíváme volitelný počítač, tak ho připojíme přes SSH k našemu budoucímu DHCP serveru.
 Náš počítač a naše zařízení připojíme k routeru (doporučujeme zařízení s Debianem připojovat přes kabel)
